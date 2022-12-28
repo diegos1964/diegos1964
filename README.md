@@ -1,4 +1,4 @@
-# 💫 About Me:
+# 💫 Sobre mim:
 Atualmente estou trabalhando em sistemas do mercado imobiliário na empresa OLX Brasil. <br>Atuando com linguagens no back-end como C# e Node JS.<br>No front-end atuo com React Js, React-Native, Flutter. 
 
 
